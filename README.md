@@ -3,7 +3,7 @@ A GPO that can be imported which will enable robust auditing for Windows Servers
 
 ## DC Audit Policy
 
-ENables PowerShell Script Block auditing!
+Enables PowerShell Script Block auditing!
 
 also Contains NTLM auditing: 
 
@@ -44,4 +44,3 @@ Audit System Integrity  |	Success and Failure
 
 
 ## Member Server Audit Policy
-
